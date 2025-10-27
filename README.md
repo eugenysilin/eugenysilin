@@ -20,9 +20,9 @@ I specialize in **TypeScript / JavaScript**, **Node.js**, **React**, **Express**
 
 ### 🧰 Tech Stack
 
-**Languages:** TypeScript, JavaScript, PHP, Bash  
+**Languages:** TypeScript, JavaScript  
 **Frontend:** React, Angular, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, Laravel, Symfony  
+**Backend:** Node.js, Express  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Cloud & DevOps:** AWS, Docker, Google Cloud  
 **Version Control:** Git, GitHub, GitLab  
