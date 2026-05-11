@@ -38,9 +38,9 @@ I love solving complex problems, mentoring teammates, and turning ideas into rea
 
 ### 📫 Let’s Connect
 
-🌐 [LinkedIn](https://linkedin.com/in/eugeny-silin/)  
-📧 [Email](mailto:eugeny.silin@sigmalion.io)  
-💻 [Portfolio / Website](https://www.sigmalion.io)
+🌐 [LinkedIn](https://linkedin.com/in/eugeny-silin/)  <a href="https://linkedin.com/in/eugeny-silin/" target="_blank">LinkedIn</a>
+📧 [Email](mailto:eugeny.silin@sigmalion.io)  <a href="mailto:eugeny.silin@sigmalion.io" target="_blank">Email</a>
+💻 [Portfolio / Website](https://www.sigmalion.io)  <a href="https://www.sigmalion.io" target="_blank">Portfolio / Website</a>
 
 ---
 
