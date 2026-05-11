@@ -40,7 +40,7 @@ I love solving complex problems, mentoring teammates, and turning ideas into rea
 
 🌐 [LinkedIn](https://linkedin.com/in/eugeny-silin/)  
 📧 [Email](mailto:eugeny.silin@sigmalion.io)  
-💻 [Portfolio / Website](https://www.sigmalion.io)
+💻 [Portfolio / Website](https://www.sigmalion.io/)
 
 ---
 
